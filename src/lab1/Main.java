@@ -1,3 +1,5 @@
+package lab1;
+
 import lab1.FizzBuzz;
 
 public class Main {
